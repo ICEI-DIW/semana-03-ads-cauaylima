@@ -124,6 +124,30 @@ h3{
     flex-direction: column;
 }
 
+.newsletter{
+    text-align: center;
+    display: block;
+    padding-block-end: 50px;
+}
+
+.subscribe{
+    text-align: center;
+    align-items: center;
+}
+
+.inbox-email{
+    font-size: 18px;
+}
+
+
+.titulo-dest1:hover{
+    color:rgb(190, 15, 15);
+}
+
+.titulo-dest2:hover{
+    color:rgb(190, 15, 15);
+}
+
 .rodape{
     background-color:#222;
     padding: 10px 20px;

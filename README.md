@@ -11,7 +11,7 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 - Nome: Cauã Iury Rocha Lima
 - Matricula: 895776
 - Proposta de projeto escolhida: Portal de Notícias Local
-- Breve descrição sobre seu projeto: 
+- Breve descrição sobre seu projeto: Site de Portal de Notícias sobre a região metropolitana de Belo Horizonte.
 
 
 ## Print do esboço criada

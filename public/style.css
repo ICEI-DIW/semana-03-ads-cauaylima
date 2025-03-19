@@ -102,7 +102,7 @@ h3{
     height: 900px;
     margin: 0px;
     display: block;
-    float: right;
+    float: left;
     align-items: center;
 }
 
@@ -155,7 +155,7 @@ h3{
     display:flex;
     justify-content: center;
     align-items: center;
-    position: relative;
+    clear: both;
 }
 
 .texto-rodapé{

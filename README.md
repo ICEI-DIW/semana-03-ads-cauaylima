@@ -16,10 +16,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Print do esboço criada
 
-![Print-esboço](Escoco-inicial.png) 
+<img src="Esboco-inicial.png">
 
 
 ## Print da home-page criada
 
-![Print-tela](Print-1.png)
-![Print-tela](Print-2.png)
+<img src="Print-1.png">
+<img src="Print-2.png">
